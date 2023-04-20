@@ -1,0 +1,15 @@
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\bin\Debug\net7.0\TaskWhenAll.exe
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\bin\Debug\net7.0\TaskWhenAll.deps.json
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\bin\Debug\net7.0\TaskWhenAll.runtimeconfig.json
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\bin\Debug\net7.0\TaskWhenAll.dll
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\bin\Debug\net7.0\TaskWhenAll.pdb
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.csproj.AssemblyReference.cache
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.AssemblyInfoInputs.cache
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.AssemblyInfo.cs
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.csproj.CoreCompileInputs.cache
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.dll
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\obj\Debug\net7.0\refint\TaskWhenAll.dll
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.pdb
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\obj\Debug\net7.0\TaskWhenAll.genruntimeconfig.cache
+C:\Users\Saeed\source\repos\TaskWhenAll\TaskWhenAll\obj\Debug\net7.0\ref\TaskWhenAll.dll
